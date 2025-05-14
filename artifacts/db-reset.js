@@ -15,7 +15,7 @@ const USERS_TO_INSERT = [
         "userName": "admin",
         "firstName": "Node Goat",
         "lastName": "Admin",
-        "password": "Admin_123",
+        "password": "Admin_1234",
         //"password" : "$2a$10$8Zo/1e8KM8QzqOKqbDlYlONBOzukWXrM.IiyzqHRYDXqwB3gzDsba", // Admin_123
         "isAdmin": true
     }, {
@@ -24,7 +24,7 @@ const USERS_TO_INSERT = [
         "firstName": "John",
         "lastName": "Doe",
         "benefitStartDate": "2030-01-10",
-        "password": "User1_123"
+        "password": "User1_12345"
         // "password" : "$2a$10$RNFhiNmt2TTpVO9cqZElb.LQM9e1mzDoggEHufLjAnAKImc6FNE86",// User1_123
     }, {
         "_id": 3,
